@@ -98,6 +98,6 @@
 
 ## 6. 회고/느낀점
 
-프로젝트 개발 회고 글: 
+프로젝트 개발 회고 글:  https://ans-tech-blog.onrender.com/post/17
 
 
